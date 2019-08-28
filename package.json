@@ -1,9 +1,9 @@
 {
-	"name": "headersetter",
-	"displayName": "headersetter",
+	"name": "HeaderSetter",
+	"displayName": "Header Setter",
 	"description": "Quickly create clean, effective HTML Heads",
-	"version": "0.0.1",
-	"publisher": "ryanwans",
+	"version": "0.8.0",
+	"publisher": "ryanrocket",
 	"repository": "https://github.com/ryanrocket/hsvsc",
 	"engines": {
 		"vscode": "^1.37.0"
