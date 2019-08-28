@@ -1,0 +1,54 @@
+{
+	"create head outline": {
+		"prefix": "!hs",
+		"body": [
+			"<head>",
+			"\t<meta charset=\"utf-8\">",
+			"\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+			"\t<base href=\"/\">",
+			"\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
+			"\t<link rel=\"icon\" href=\"/favicon.ico\">",
+			"\t<title>${0}</title>",
+			"",
+			"\t<meta name=\"title\" content=\"\" />",
+			"\t<meta name=\"description\" content=\"\" />",
+			"\t<meta name=\"keywords\" content=\"\" />",
+			"\t<meta name=\"revisit-after\" content=\"\" />",
+			"",
+			"\t<!-- HeaderSetter > JS Libraries -->",
+			"\t<!-- HeaderSetter > CSS Libraries -->",
+			"</head>"
+		],
+		"description": "Header Setter Head Boilerplate"
+	},
+	"create head light": {
+		"prefix": "!hslight",
+		"body": [
+			"<head>",
+			"\t<meta charset=\"utf-8\">",
+			"\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
+			"\t<link rel=\"icon\" href=\"/favicon.ico\">",
+			"\t<title>${0}</title>",
+			"",
+			"\t<!-- HeaderSetter > JS Libraries -->",
+			"\t<!-- HeaderSetter > CSS Libraries -->",
+			"</head>"
+		],
+		"description": "Header Setter Light Boilerplate"
+	},
+	"fill meta content": {
+		"prefix": "!hsmeta",
+		"body": [
+			"<meta charset=\"utf-8\">",
+			"<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+			"<base href=\"/\">",
+			"<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
+			"<link rel=\"icon\" href=\"/favicon.ico\">",
+			"<meta name=\"title\" content=\"\" />",
+			"<meta name=\"description\" content=\"\" />",
+			"<meta name=\"keywords\" content=\"\" />",
+			"<meta name=\"revisit-after\" content=\"\" />"
+		],
+		"description": "Header Setter Meta Tags"
+	}
+}
